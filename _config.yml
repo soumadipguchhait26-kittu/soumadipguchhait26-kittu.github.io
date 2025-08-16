@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Soumadip"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher: passionate about environment"
+  location         : "INDIA"
+  employer         : "IISER kolkata"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sg21ip011@iiserkol.ac.in" 
 
   # Academic websites
   academia         : # URL
