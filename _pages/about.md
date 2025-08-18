@@ -1,15 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# Welcome
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am **Soumadip Guchhait**, a PhD researcher in the Department of Earth and Environmental Sciences at the **Indian Institute of Science Education and Research (IISER) Kolkata**.  
+My research lies at the interface of **environmental chemistry and geoscience**, with a focus on understanding the **fate, interactions, and remediation strategies of emerging contaminants** such as microplastics, nanoplastics, and pharmaceuticals in aquatic environments.  
+
+Currently, I am investigating how **mineral–contaminant interactions** influence processes like **nanoplastic encapsulation, contaminant sorption, and mineral dissolution**, using a combination of **spectroscopy, microscopy, and advanced chemometric tools (e.g., PARAFAC analysis)**.  
+
+This website provides an overview of my research journey, including:  
+- 📄 **Publications** – peer-reviewed articles and ongoing work  
+- 🎤 **Talks & Presentations** – invited talks, conference contributions, and outreach  
+- 👨‍🏫 **Teaching & Mentorship** – academic teaching and student engagement  
+- 🧪 **Research Highlights** – recent projects, collaborations, and findings  
+
+I am passionate about developing **sustainable approaches to mitigate anthropogenic contaminants** and contributing to a cleaner, more resilient environment.  
+
+Feel free to explore, and don’t hesitate to reach out via [email](mailto:soumadipguchhait26@gmail.com).
 
 A data-driven personal website
 ======
