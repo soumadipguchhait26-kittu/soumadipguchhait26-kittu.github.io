@@ -9,10 +9,10 @@ redirect_from:
 
 # Welcome
 
-I am **Soumadip Guchhait**, a PhD researcher in the Department of Earth and Environmental Sciences at the **Indian Institute of Science Education and Research (IISER) Kolkata**.  
+I am **Soumadip Guchhait**, a PhD researcher in the Department of Earth Sciences at the **Indian Institute of Science Education and Research (IISER) Kolkata**.  
 My research lies at the interface of **environmental chemistry and geoscience**, with a focus on understanding the **fate, interactions, and remediation strategies of emerging contaminants** such as microplastics, nanoplastics, and pharmaceuticals in aquatic environments.  
 
-Currently, I am investigating how **mineral–contaminant interactions** influence processes like **nanoplastic encapsulation, contaminant sorption, and mineral dissolution**, using a combination of **spectroscopy, microscopy, and advanced chemometric tools (e.g., PARAFAC analysis)**.  
+Currently, I am investigating how **mineral–contaminant interactions** influence processes like **nanoplastic encapsulation, contaminant sorption, and mineral dissolution**, using a combination of **spectroscopy, microscopy, and advanced chemometric and analytical tools (e.g., PARAFAC analysis)**.  
 
 This website provides an overview of my research journey, including:  
 - 📄 **Publications** – peer-reviewed articles and ongoing work  
