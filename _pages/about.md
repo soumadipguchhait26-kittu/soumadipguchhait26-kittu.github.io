@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome 
 
-Currently, I am investigating how **mineral–contaminant interactions** influence processes like **nanoplastic encapsulation, contaminant sorption, and mineral dissolution**, using a combination of **spectroscopy, microscopy, and advanced chemometric and analytical tools (e.g., PARAFAC analysis)**.  
+Currently I am investigating how **mineral–contaminant interactions** influence processes like **nanoplastic encapsulation, contaminant sorption, and mineral dissolution**, using a combination of **spectroscopy, microscopy, and advanced chemometric and analytical tools (e.g., PARAFAC analysis)**.  
 
 This website provides an overview of my research journey, including:  
 - 📄 **Publications** – peer-reviewed articles and ongoing work  
